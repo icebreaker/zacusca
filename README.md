@@ -1,4 +1,7 @@
 # Zacusca
+Turns any project into delicious [zacusca](https://en.wikipedia.org/wiki/Zacusc%C4%83).
+
+**WARNING: I am not responsible for any direct or indirect data loss resulted from using zacusca.**
 
 ## Installation
 
