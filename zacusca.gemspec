@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Turns your project into zacusca."
   spec.description   = "It turns any Rails project into some very good zacusca."
-  spec.homepage      = "http://mihail.co"
+  spec.homepage      = "https://github.com/icebreaker/zacusca"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
